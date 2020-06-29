@@ -1,0 +1,34 @@
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+package-lock.json
+node_modules/
+.sass-cache/
+package.json
+webpack.config.js
+.babelrc
+
+
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Linux ###
+*~
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+
+### Webstorm ###
+.idea/
+
+### Other ###
+.test/
+.solution
+js/api_keys.js
